@@ -7,10 +7,6 @@ layout: home
     <ul class="contact-list">
         <li><b>Prof. Arkady Yerukhimovich</b></li>
         <li><a href="mailto:arkady@gwu.edu">arkady@gwu.edu</a></li>
-        <li><b> Ethan Cohen  </b> (UTA) </li>
-        <a href="mailto:ecohen02@gwu.edu">ecohen02@gwu.edu</a>
-        <li><b> Ozzy Simpson </b> (UTA) </li>
-        <li><a href="mailto:ozzy@gwu.edu">ozzy@gwu.edu</a> </li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
@@ -38,8 +34,7 @@ layout: home
   - [Piazza](https://piazza.com/gwu/spring2024/csci3313)
   - [Blackboard](http://blackboard.gwu.edu)
   - [Gradescope](https://www.gradescope.com/courses/708826)
-  - [JFLAP](http://jflap.org)
-  - [JFLAP tutorial and installation video (provided by Grant McClearn, Class of 2021; currently at Stanford)](https://youtu.be/xA2D7kv8IzY)
+  - [Slack] ()
 
 ## Tentative Schedule  ##
 
