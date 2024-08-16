@@ -22,6 +22,13 @@ layout: home
 </div>
 </div>
 
+## Instructor ##
+Name: Arkady Yerukhimovich (He/Him)
+Email: <a href="mailto:arkady@gwu.edu">arkady@gwu.edu</a>
+Office: SEH4570
+Office hours: TBD
+
+## Course Information ##
 
 > This is a core undergraduate Computer Science course on the theory of computing. The course introduces the foundations of computer computer science including questions such as “what is computation”, “what are the mathematical models of computing machines”, “what is a computable problem”, and "what is efficiently computable". The course covers these questions and in the process introduces important concepts such as Turing machines, formal languages, models of automata, and an introduction to complexity theory.  This is a theoretical course and requires rigorous mathematical analysis, including deriving formal proofs, which will help you develop your on mathematical abstraction and problem solving skills. The lecture, and some lab sessions, will consist of in-class activities and students will be required to work in groups.
 
