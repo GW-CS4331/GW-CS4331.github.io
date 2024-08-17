@@ -4,120 +4,212 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
+**Course Information**
 
-**Instructor:** Prof. Arkady Yerukhimovich
-**Email:** [arkady@gwu.edu](mailto:arkady@gwu.edu)
-**Prerequisites:** Software Engineering (CS 2113); and Discrete Structures II (CS2312) or Introduction to Computer Systems (CS 2460) or Computer Architecture (CS 2461) (See [undergraduate curriculum](https://www.cs.seas.gwu.edu/bachelor-science-program/)).
+Course: CSCI 4331 / 6331 – Cryptography
+Semester: Fall, 2024
+Meeting time: Monday and Wednesday, 12:45 – 2:00
+Location: Corcoran Hall 207
 
-**Time/Place:**
-  * **Class meets: Tuesday, Thursday 11:10am - 12:25pm in SEH 1300, 1400, and 1450**
+**Instructor**
+Name: Arkady Yerukhimovich (he/him)
+Email: arkady@gwu.edu
+Office: SEH 4570
+Office hours: Check [Course Homepage](https://gw-cs3313.github.io/) for updated hours.
 
-**Office Hours:**
-Check [Course Homepage](https://gw-cs3313.github.io/) for updated hours.
-
-**Online Platforms**
-* Piazza for discussions
-* Gradescope for homework submission and grades
-* Blackboard for synchronous lectures and recordings
-* Webpage for lecture slides, tutorials, and other materials
-
-**Course Staff:**
-  - [Suvasree Biswas](mailto:suvasree@gwmail.gwu.edu) - GTA
-  - [Ethan Cohen](mailto:ecohen02@gwu.edu) - UTA
-  - [Clare Jenney](mailto:cjenney77@gwu.edu) - UTA
-  - [Ozzy Simpson](mailto:ozzy@gwu.edu) - UTA
-  - [Abdulrahman Alsaleh](mailto:aalsaleh31@gwu.edu) - LA
 
 ### Course Description and Learning Outcomes  ###
 
-This is a core undergraduate Computer Science course on the theory of computing. The course introduces the foundations of computer computer science including questions such as “what is computation”, “what are the mathematical models of computing machines”, “what is a computable problem”, and "what is efficiently computable". The course covers these questions and in the process introduces important concepts such as Turing machines, formal languages, models of automata, and an introduction to complexity theory.  This is a theoretical course and requires rigorous mathematical analysis, including deriving formal proofs, which will help you develop your on mathematical abstraction and problem solving skills. The lecture, and some lab sessions, will consist of in-class activities and students will be required to work in groups.
+This course introduces students to modern cryptography with a focus on formal definitions and provably secure constructions of cryptographic protocols. Topics covered include secret-key and public-key encryption, message-authentication codes, digital signatures, and advanced topics.  This is a theoretical course and requires rigorous mathematical analysis, including deriving formal proofs, which will help you develop your on mathematical abstraction and problem solving skills. The lecture, and some lab sessions, will consist of in-class activities and students will be required to work in groups.  Additionally, the course includes a team research project where students will read and present on a recent research topic in cryptography.
+
+**Prerequisites**
+The main prerequisite for this course is a basic level of mathematical maturity. Students should feel comfortable with mathematical notation and be able to follow and apply mathematical reasoning. Basic
+familiarity with asymptotic notation, mathematical logic, and probability are recommended.
+
+Suggested prerequisites to cover this material include:
+
+<u>For CSCI 4331:</u>
+Any of CSCI 2312, CSCI 3212, CSCI 3313, or MATH 2971
+
+<u>For CSCI 6331:</u>
+CSCI 6212 or equivalent
 
 **By the end of this course, students will be able to:**
-  * Understand key concepts in the theoretical foundations of computer science including: automata models such as finite state automata, pushdown automata and Turing machines; formal languages and grammars including regular languages, and context free grammars; Turing computability and the language hierarchy, and computational complexity.
-  * Identify relationship between languages and computability including the language/machine hierarchy.
-  * Develop problem solving skills and proof techniques.
-  * Develop the ability to abstract computational problems, and  construct mathematical models (and proofs) to determine complexity and limits of machine models.
-  * Understand the concept of unsolvable and solvable problems, as well as efficiently solvable and unsolvable problems and develop skills to prove hardness of problems.
+  * Understand and differentiate between cryptographic definitions
+  * Choose appropriate security definitions for given applications
+  * Prove security of basic cryptographic constructions
+  * Demonstrate familiarity with core building blocks of modern cryptography
+
+
+
+**Online Platforms**
+* Piazza for discussions and announcements
+* Gradescope for homework submission and grades
+* Blackboard for synchronous lectures and recordings
+* Webpage for lecture slides, and other materials
+
 
 **Course Outline**
   * See the course webpage for weekly schedule
 
 ### Textbook and Resources  ###
 
-There are three options for a textbook; the instructor recommends the book by Sipser, but all three books will have relevant material for review.  The textbooks are NOT required, but can be beneficial for additional reading.
-  * **Primary Text:** [Introduction to the Theory of Computation](http://www.cengage.com/computerscience) by Michael Sipser, published by CENGAGE Learning, 3rd edition.
-  * **Alternate Text:**
-    * [An Introduction to Formal Languages and Automata, 6th edition,](http://jblearning.com) by Peter Linz, published by Jones and Bartlett Learning.  (6th edition) -- this book gives a more detailed overview of material covered in the first 2/3 of the course.
-    * [Introduction to Theoretical Computer Science](https://github.com/boazbk/tcs/releases/download/v0.94/introtcs_august21_2022.pdf) by Boaz Barak -- this book gives a more advanced overview of the material covered in this course along with many advanced topics.
+The course will largely follow the primary textbook.  Students can use it for reinforcement of the material, but the book is not required.
 
-  * **Software:** [JFLAP Automata Simulator](http://jflap.org):   this is an automata simulation tool that we will be using to design and test automata.
+  * **Primary Text:** : [Introduction to Modern Cryptography](<https://wrlc-gwu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01WRLC_GWA:live&search_scope=DN_and_CI&isFrbr=true&tab=Everything&docid=alma99185917007604107") by Jonathan Katz and Yehuda Lindell, published by CRC Press 2014, 2nd edition.
+  * **Alternate Text** : [Joy of Cryptography](https://joyofcryptography.com/) by Mike Rosulek. -- This book offers a somewhat different presentation of
+much of the material covered in this course.
 
-### Lab Sections  ### 
-You must be registered in a lab section -- the sections meet on Wednesday 10:00am and 11:15am. These will be conducted by the TAs. The labs will review material but will also include exercises, quizzes and discussions.
 
 ### Workload and Grading  ###
-The course will be taught through live synchronous lectures. As a 3 credit course, it will require a minimum of 2.5 hours per week of direct instruction and minimum of 5 hours of independent learning. In addition, the laboratory section will require 75 minutes of direct instruction and will include independent learning exercises to assist in your learning. Over the course of the semester, your independent learning will include readings (lecture notes and/or textbook), and homeworks. The lectured will include presentation of material, exercises, and discussions.  All lectures will be recorded, and recordings will be provided on blackboard.
+The course will be taught through live synchronous lectures. As a 3 credit course, it will require a minimum of 2.5 hours per week of direct instruction and minimum of 7 hours of independent learning. Over the course of the semester, your independent learning will include readings (lecture notes and/or textbook), and homeworks. The lectures will include presentation of material, exercises, and discussions.  All lectures will be recorded, and recordings will be provided on Blackboard.
 
 **Grading:**
-   * **20%: Class participation** The class participation grade will consist of the following:
-     * Discussion participation:  Students are expected to actively participate in lectures and lab by asking questions and engaging in discussion, as well as in online discussion through Piazza.  Your level of engagement will be reflected in the participation grade.
-     * In-class quizzes: Quizzes will be held either during the lab or during the lecture session. Late arrival means you may miss the quiz - no extra time will be provided for those who arrive late. On average there will be a quiz scheduled approximately every week except during the weeks of the two exams and the first week of class.   
-     * Lab exercises:  There will be required in-class (group) exercises during the lab or lecture sessions.  Participation in and submission of these exercises will count towards your participation grade.
-
-   * **30%: Homeworks.** A number of homework assignments will be given. The goal of the homework is to improve your learning of the concepts covered in the lectures. No collaboration of any kind on the homework.  The lowest homework score will be dropped when computing the grade.
-
-   * **50%: Three exams.**
-    * There will be two (midterm) exams, one covering regular languages,  finite automata, context free languages and push-down automata; and the other covering computability theory. The final exam will be comprehensive but will focus mostly on content after the second midterm exam.  The exams will be worth 20% each with the exam on which you receive the lowest score counting for only 10%.   
-
-**Final Grading**
-  * Do I curve the grades? Yes.
-  * Grades will be based on the 'weighted total' after curving and scaling, where the weights for each category are shown above - normalization places your total as a percentage of the highest total in the class, and curving identifies clusters.  
-  * Grades in each category and your weighted total will be posted on blackboard.   
-  * Grades are skewed toward the higher end if course average (or median) is high and skewed towards lower if they are low.  
-  * Grades are then approximately (since they will depend on the final distribution, including median score) assigned in the following ranges when the assumption is that the normalized average or median is around 78-80. Grades are skewed toward the higher end if average is higher and skewed towards lower if average is lower.
-
-  | Percentage  | Letter grade
+  
+  | Activity  | Percentage of Grade
   | :--- |:---  |
-  | 90-100 | A range (A- to A)|
-  | 80-89 | B range (B- to B+)|
-  | 70-79 | C range (C- to C+)|
-  | 60-69 | D range (D- to D+)|
-  | below 60| F|
+  | Exam(s) | 40% (20% each)|
+  | Homework | 30% |
+  | Research Project | 20% |
+  | Class Participation | 10% |
+
+ 
+**Homework Policy:**
+Homework will be assigned (approximately) weekly. Homework is due before class (by 12:45PM) on the
+due date. Homework must be submitted via Blackboard by this time to receive credit. Homework can
+be typed using your favorite tool (I am happy to help anybody interested in learning LaTex) or
+handwritten and scanned. But, make sure that what you submit is legible as it is what will be graded.
+
+Instead of numerical grades, I will use a version of “specifications grading” to evaluate level of
+understanding instead of assigning point values to each mistake. Homework will be graded on an EMRN
+rubric. These stand for the following:
+* E -- Excellent, meets or exceeds expectation, clearly written and complete, clear understanding
+* M -- Meets expectations, clear evidence of understanding, needs clean up or minor revision
+* R -- Needs revision, shows partial understanding but significant gaps remain
+* N -- Not satisfactory, fails to demonstrate understanding of problem or solution approach
+
+Each problem on the homework will receive a letter grade according to this rubric. Your final homework
+grade will depend on the number of problems on which you earn an E or M.  To help students build understanding of the material, I will allow two attempts at each homework problem with the grading as described below:
+* To receive an E you must submit the correct solution before the original due date. No revisions
+can receive an E.
+* To receive an M, you can either receive an M on your initial attempt, submitted before the
+deadline, or as a revision of a problem on which you received an R or N on your first attempt.
+Important: To be allowed a revision, a first attempt must be submitted by the original deadline.
+* If your initial submission, submitted by the deadline, receives an R or an N, you will be allowed
+to revise and resubmit your solutions. Revised solutions can receive at most an M. You can resubmit solutions up to 1 WEEK after the initial deadline.
+* Resubmissions of R and N grades are optional. If you do not submit one, you will keep your
+original grade.
+
+Final homework grades will be determined as follows:
+* A-: > 85% of problems get a E or M
+* B-: > 70% of problems get a E or M
+* C-: > 60% of problems get a E or M
+* D-: > 50% of problems get a E or M
+
+Moving up from an A- to an A or an A+ will depend on the fraction of E's as opposed to M's and the
+fraction of R's as opposed to N's. So, if you get 86% total E+M's with more E's than M's and more
+R's than N's, you will earn an A. I will fine tune the exact boundaries for the plusses and minuses
+depending on student performance, but you will have an approximation of your grade as the
+semester progresses.
+
+Students are welcome to discuss the problems and concepts with others in the class, but they should
+solve the problems on their own and the solutions you submit MUST be your own. I reserve the right to
+question you about your solution if it appears copied.
+
+Additionally, students MAY NOT use online resources such as solutions to other homeworks, chegg.com,
+or ChatGPT to find solutions. ChatGPT is terrible at answering crypto problems -- trust me, I tried -- and I
+will know if you copy. Any problems found to be in violation of this policy will automatically receive an
+N with no option to resubmit. Additionally, significant evidence of copying or using external solutions
+will be considered in breach of the academic integrity code and will be prosecuted accordingly.
+
+**Exam Policy**
+
+There will be two exams. The first exam will cover the first half of the course, while the second exam
+will be cumulative covering the full semester. For both exams, you will be allowed to bring one 8.5”x11”
+piece of paper with notes to the exam. No calculators or computers are allowed.
 
 ### Course Policies  ###
 
  **If you have a disability, or a health or a family emergency, that may effect your participation in this course and wish to discuss academic accommodations, please contact me as soon as possible.**
 
-**Late work policy:** There are **no late submissions** allowed in this course. The only exception to this rule is if you have a medical or family emergency, and you should contact the instructor or the TA before the due date.
-
 **Grades will be posted on Blackboard** -- make sure you check and inform the instructors (by email) if you see any disparity between what is posted on blackboard and what you think your grades are.  You have one week after the grades are posted to contact the instructor -- after that there will be no regrading.
 
-**Email policy:** You can send email to my GW email address. However, do not expect an instantaneous response. We encourage you to post questions on Piazza since that will be monitored by the entire instruction team and your classmates.
+**Email policy:** You can send email to my GW email address. However, do not expect an instantaneous response. I encourage you to post questions on Piazza.
 
 **Illness policy:** If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance if possible.  I cannot extend deadlines unless you contact me. You are still responsible for all material you missed, which generally will be available on the course website or on blackboard.
 
-**Academic Integrity policy:** It is very important in this course (and in life), that your work be your own. These guidelines will help you achieve that.
+### University Policies ###
 
-You must:
-  * Do your best to solve all homework, quizzes, and exams on your own.
-  * Notify me if you are using a tutor (this is not a problem, just let me know).
+**Academic Integrity Code**
+Academic integrity is an essential part of the educational process, and all members of the GW community take these matters very seriously. As the instructor of record for this course, my role is to provide clear expectations and uphold them in all assessments. Violations of academic integrity occur when students fail to cite research sources properly, engage in unauthorized collaboration, falsify data, and otherwise violate the [Code of Academic Integrity](https://studentconduct.gwu.edu/code-academic-integrity). If you have any questions about whether particular academic practices or resources are permitted, you should ask me for clarification. If you are reported for an academic integrity violation, you should contact Student Rights and Responsibilities (SRR) to learn more about your rights and options in the process. Consequences can range from failure of assignment to expulsion from the University and may include a transcript notation. For more information, refer to the [SRR website](http://studentconduct.gwu.edu/academic-integrity), email rights@gwu.edu, or call 202-994-6757. 
 
-You may:
-  * Discuss general approaches to solving the homework problems with other students by referring to questions in the textbook.
-  * Discuss general mathematical concepts (proof techniques, formalisms, etc.) with another student although it is recommended that you contact one of the TAs or LAs for this purpose.
+**University policy on observance of religious holidays**
+Students must notify faculty during the first week of the semester in which they are enrolled in the course, or as early as possible, but no later than three weeks prior to the absence, of their intention to be absent from class on their day(s) of religious observance. If the holiday falls within the first three weeks of class, the student must inform faculty in the first week of the semester. For details and policy, see [provost.gwu.edu/policies-procedures-and-guidelines](http://provost.gwu.edu/policies-procedures-and-guidelines).
 
-You may not:
-  * Copy homework solutions from other students or people (or places/web) outside of the class.
-  * Have someone else complete your homework for you.
-  * Copy solutions from the internet.
-  * Write solution as a group and then submit identical or slightly modified versions---if you discuss general approaches to solving a problem together, you still must be writing up your own independent solution.
+**Use of Electronic Course Materials and Class Recordings**
+Students are encouraged to use electronic course materials, including recorded class sessions, for private personal use in connection with their academic program of study. Electronic course materials and recorded class sessions should not be shared or used for non-course related purposes unless express permission has been granted by the instructor. Students who impermissibly share any electronic course materials are subject to discipline under the Student Code of Conduct. Contact the instructor if you have questions regarding what constitutes permissible or impermissible use of electronic course materials and/or recorded class sessions. Contact Disability Support Services at [disabilitysupport.gwu.edu](https://disabilitysupport.gwu.edu/) if you have questions or need assistance in accessing electronic course materials.
 
 
-The [Academic Integrity Code](https://github.com/GWU-CSCI3411-Fall16/hw-0-gparmer/blob/master/cs_integrity.md) will apply to this course. Please read through the code carefully. *Penalties for violating the code or the policies described here include failing this course*, and are elaborated in the [GW Academic Integrity Code](https://studentconduct.gwu.edu/code-academic-integrity). Note that the _minimum_ punishment is failure of the assignment.
+### Academic support ###
 
-**Support for students outside the classroom.**
+**Academic Commons**
+[Academic Commons](https://academiccommons.gwu.edu/) is the central location for academic support resources for GW students. To schedule a peer tutoring session for a variety of courses visit [go.gwu.edu/tutoring](http://go.gwu.edu/tutoring). Visit [academiccommons.gwu.edu](http://academiccommons.gwu.edu/) for study skills tips, finding help with research, and connecting with other campus resources. For questions email academiccommons@gwu.edu.
+
+**GW Writing Center**
+GW Writing Center cultivates confident writers in the University community by facilitating collaborative, critical, and inclusive conversations at all stages of the writing process. Working alongside peer mentors, writers develop strategies to write independently in academic and public settings. Appointments can be booked online at [gwu.mywconline](https://gwu.mywconline.com/). 
 
 
-* Academic Commons. Academic Commons provides tutoring and other academic support resources to students in many courses. Students can schedule virtual one-on-one appointments or attend virtual drop-in sessions. Students may schedule an appointment, review the tutoring schedule, access other academic support resources, or obtain assistance at academiccommons.gwu.edu.
-* Disability Support Services (DSS) 202 994 8250. Any student who may need an accommodation based on the potential impact of a disability should contact Disability Support Services to establish eligibility and to coordinate reasonable accommodations. disabilitysupport.gwu.edu
-* Counseling and Psychological Services. 202 994 5300. GW’s Colonial Health Center offers counseling and psychological services, supporting mental health and personal development by collaborating directly with students to overcome challenges and difficulties that may interfere with academic, emotional, and personal success. See [Health Center](https://healthcenter.gwu.edu/counseling-and-psychological-services).
+### Support for students in and outside the classroom ###
+
+**Disability Support Services (DSS)** 202-994-8250
+Any student who may need an accommodation based on the potential impact of a disability should contact Disability Support Services at [disabilitysupport.gwu.edu](https://disabilitysupport.gwu.edu/) to establish eligibility and to coordinate reasonable accommodations.
+
+**Student Health Center** 202-994-5300, 24/7
+The Student Health Center (SHC) offers [medical](https://healthcenter.gwu.edu/medical-services), [counseling/psychological](https://healthcenter.gwu.edu/counseling-and-psychological-services), and [psychiatric](https://healthcenter.gwu.edu/psychiatric-services) services to GW students. More information about the SHC is available at [healthcenter.gwu.edu](https://healthcenter.gwu.edu/). Students experiencing a medical or mental health emergency on campus should contact GW Emergency Services at 202-994-6111, or off campus at 911. 
+
+
+### GW Campus Emergency Information ###
+
+**GW Emergency Services** 202-994-6111
+For situation-specific instructions, refer to [GW's Emergency Procedures guide](https://safety.gwu.edu/emergency-response-handbook).  
+
+**GW Alert**
+GW Alert is an emergency notification system that sends alerts to the GW community. GW requests students, faculty, and staff maintain current contact information by logging on to [alert.gwu.edu](https://alert.gwu.edu/). Alerts are sent via email, text, social media, and other means, including the Guardian app. The Guardian app is a safety app that allows you to communicate quickly with GW Emergency Services, 911, and other resources.  Learn more at [safety.gwu.edu](https://safety.gwu.edu/gw-alert-instructions).
+
+
+**Protective Actions** 
+GW prescribes four protective actions that can be issued by university officials depending on the type of emergency. All GW community members are expected to follow directions according to the specified protective action.  The protective actions are Shelter, Evacuate, Secure, and Lockdown (details below).  Learn more at [safety.gwu.edu/gw-standard-emergency-statuses](https://safety.gwu.edu/gw-standard-emergency-statuses).
+
+
+**Shelter**
+* Protection from a specific hazard
+* The hazard could be a tornado, earthquake, hazardous material spill, or other environmental emergency.
+* Specific safety guidance will be shared on a case-by-case basis.
+
+Action: 
+* Follow safety guidance for the hazard.
+
+**Evacuate**
+* Need to move people from one location to another.
+* Students and staff should be prepared to follow specific instructions given by first responders and University officials.
+
+Action:
+*	Evacuate to a designated location.
+*	Leave belongings behind.
+*	Follow additional instructions from first responders.
+
+**Secure**
+*	Threat or hazard outside of buildings or around campus.
+*	Increased security, secured building perimeter, increased situational awareness, and restricted access to entry doors.
+
+Action:
+*	Go inside and stay inside.
+*	Activities inside may continue.
+
+**Lockdown**
+*	Threat or hazard with the potential to impact individuals inside buildings.
+*	Room-based protocol that requires locking interior doors, turning off lights, and staying out of sight of corridor window.
+
+Action:
+*	Locks, lights, out of sight
+*	Consider Run, Hide, Fight

@@ -13,7 +13,7 @@ Office hours: TBD
 
 Class time: MW 12:45-2:00pm
 Class location: Corcoran Hall 207
-Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. Second Edition." CRC Press 2014. (Available for free through <a href="https://wrlc-gwu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01WRLC_GWA:live&search_scope=DN_and_CI&isFrbr=true&tab=Everything&docid=alma99185917007604107">GW libraries</a>.) 
+Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. Second Edition." CRC Press 2014. (Available for free through [GW libraries](https://wrlc-gwu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01WRLC_GWA:live&search_scope=DN_and_CI&isFrbr=true&tab=Everything&docid=alma99185917007604107).) 
 
 > This course will introduce students to modern cryptography with a focus on formal definitions and provably secure constructions of cryptographic protocols. Topics covered will include secret-key and public-key encryption, message-authentication codes, digital signatures, and advanced topics. See syllabus for additional details.  This is a theoretical course and requires rigorous mathematical analysis, including deriving formal proofs, which will help you develop your on mathematical abstraction and problem solving skills. The lecture, and some lab sessions, will consist of in-class activities and students will be required to work in groups.
 
@@ -23,9 +23,9 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
   - <b>This website is permanently under construction - all content subject to change!<b>
 
 ## Class Resources ##
-  - [Piazza](https://piazza.com/gwu/spring2024/csci3313)
+  - [Piazza](https://piazza.com/gwu/fall2024/csci63314331)
   - [Blackboard](http://blackboard.gwu.edu)
-  - [Gradescope](https://www.gradescope.com/courses/708826)
+  - [Gradescope](https://www.gradescope.com/courses/822061)
 
 ## Tentative Schedule  ##
 
@@ -50,6 +50,7 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 |  Public-Key Encryption (Week 12) <br>  <br>   |  |
 |  Digital Signatures (Week 13) <br>  <br>   |  |
 |  Advanced Topics and Research Workshop (Week 14) <br>  <br>   |  |
+|  Exam Review (Week 15) <br>  <br>   |  |
 
 | Final Exam   | Materials
 | :--- |:---  |
