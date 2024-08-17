@@ -3,7 +3,7 @@ layout: home
 
 ---
 
-test
+
 
 ## Instructor ##
 Name: Arkady Yerukhimovich (He/Him)
