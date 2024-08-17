@@ -1,9 +1,8 @@
 ---
 layout: home
-
+title: CSCI 4331/6331 Cryptography
 ---
 
- 
 
 ## Instructor ##
 Name: Arkady Yerukhimovich (He/Him)
