@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CSCI 4331/6331 Cryptography
+title: CS 4331/6331 Cryptography
 ---
 
 

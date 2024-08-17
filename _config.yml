@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-#title: CS 4331/6331 Cryptography
+title: CS 4331/6331 Cryptography
 email: arkady@gwu.edu
 author: Arkady Yerukhimovich
 description: > # this means to ignore newlines until "baseurl:"
