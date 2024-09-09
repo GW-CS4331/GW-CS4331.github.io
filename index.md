@@ -8,7 +8,7 @@ title: CS 4331/6331 Cryptography
 Name: Arkady Yerukhimovich (He/Him)
 Email: <a href="mailto:arkady@gwu.edu">arkady@gwu.edu</a>
 Office: SEH4570
-Office hours: TBD
+Office hours: M 2:15-3:15, F 2:30-3:30
 
 ## Course Information ##
 
@@ -35,8 +35,8 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 | Symmetric-Key Cryptography (Weeks 1-8) | Materials
 | :--- |:---  |
 | Introduction to Cryptography and the One Time Pad (Week 1) <br><br>  | [Lecture 0 -- Course Information](lectures/lecture0.pdf) <br> [Lecture 1 -- Principles of Modern Cryptography](lectures/lecture1.pdf) <br> [Lecture 2 -- Probability Review and Perfectly-Secure Encryption](lectures/lecture2_marked.pdf) |
-| Computationally-Secure Encryption (Week 2) <br>  <br>  |  [Lecture 3 -- Limitations of Perfect Secrecy and Computationally-Secure Encryptions](lectures/lecture3_marked.pdf) |
-| Proof by Reduction and Pseudorandom Generators (Week 3) <br>  <br>  | |
+| Computationally-Secure Encryption (Week 2) <br>  <br>  |  [Lecture 3 -- Limitations of Perfect Secrecy and Computationally-Secure Encryptions](lectures/lecture3.pdf) |
+| Proof by Reduction and Pseudorandom Generators (Week 3) <br>  <br>  | [Lecture 4 -- PRGs and Reductions](lectures/lecture4.pdf) |
 | CPA-Secure Encryption and Pseudorandom Functions  (Week 4) <br>  <br>  | |
 | Modes of Operation (Week 5) <br>  <br>  |  |
 | Message Authentication Codes and CCA-Secure Encryption (Week 6) <br>  <br>  |  |
