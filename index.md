@@ -37,7 +37,7 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 | Introduction to Cryptography and the One Time Pad (Week 1) <br><br>  | [Lecture 0 -- Course Information](lectures/lecture0.pdf) <br> [Lecture 1 -- Principles of Modern Cryptography](lectures/lecture1.pdf) <br> [Lecture 2 -- Probability Review and Perfectly-Secure Encryption](lectures/lecture2_marked.pdf) <br> [Quiz 1](quiz/quiz1.pdf)|
 | Computationally-Secure Encryption (Week 2) <br>  <br>  |  [Lecture 3 -- Limitations of Perfect Secrecy and Computationally-Secure Encryptions](lectures/lecture3.pdf) |
 | Proof by Reduction and Pseudorandom Generators (Week 3) <br>  <br>  | [Lecture 4 -- PRGs and Reductions](lectures/lecture4_marked.pdf) <br> [Lecture 5 -- Security of PRG+OTP](lectures/lecture5_marked.pdf) <br> [Quiz 2](quiz/quiz2.pdf) |
-| CPA-Secure Encryption and Pseudorandom Functions  (Week 4) <br>  <br>  | [Lecture 6 -- Reductions Review and CPA-Secure Encryption](lectures/lecture6_marked.pdf)|
+| CPA-Secure Encryption and Pseudorandom Functions  (Week 4) <br>  <br>  | [Lecture 6 -- Reductions Review and CPA-Secure Encryption](lectures/lecture6_marked.pdf) <br> [Lecture 7 -- Psuedorandom Functions and CPA-Secure Encryption](lectures/lecture7.pdf) |
 | Modes of Operation (Week 5) <br>  <br>  |  |
 | Message Authentication Codes and CCA-Secure Encryption (Week 6) <br>  <br>  |  |
 | Hash Functions (Week 7) <br>  <br>  |  |
