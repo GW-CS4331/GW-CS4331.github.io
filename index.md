@@ -38,8 +38,8 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 | Computationally-Secure Encryption (Week 2) <br>  <br>  |  [Lecture 3 -- Limitations of Perfect Secrecy and Computationally-Secure Encryptions](lectures/lecture3.pdf) |
 | Proof by Reduction and Pseudorandom Generators (Week 3) <br>  <br>  | [Lecture 4 -- PRGs and Reductions](lectures/lecture4_marked.pdf) <br> [Lecture 5 -- Security of PRG+OTP](lectures/lecture5_marked.pdf) <br> [Quiz 2](quiz/quiz2.pdf) |
 | CPA-Secure Encryption and Pseudorandom Functions  (Week 4) <br>  <br>  | [Lecture 6 -- Reductions Review and CPA-Secure Encryption](lectures/lecture6_marked.pdf) <br> [Lecture 7 -- Psuedorandom Functions](lectures/lecture7_marked.pdf) <br> [Quiz 3](quiz/quiz3.pdf)|
-| Building CPA-Secure Encryption and Modes of Operation (Week 5) <br>  <br>  | [Lecture 8 -- Building CPA-Secure Encryption](lectures/lecture8_marked.pdf) <br> [Lecture 9 -- Proof of Security of PRF+OTP, Modes of Operations](lectures/lecture9.pdf)|
-| Message Authentication Codes and CCA-Secure Encryption (Week 6) <br>  <br>  |  |
+| Building CPA-Secure Encryption and Modes of Operation (Week 5) <br>  <br>  | [Lecture 8 -- Building CPA-Secure Encryption](lectures/lecture8_marked.pdf) <br> [Lecture 9 -- Proof of Security of PRF+OTP, Modes of Operations](lectures/lecture9_marked.pdf)|
+| Message Authentication Codes and CCA-Secure Encryption (Week 6) <br>  <br>  | [Lecture 10 -- Padding Oracle Attack](lectures/lecture10_marked.pdf) <br> [Quiz 4](quiz/quiz4.pdf) |
 | Hash Functions (Week 7) <br>  <br>  |  |
 | <br> <b> Exam 1 (Week 8) Oct. 16 </b> |  All material on symmetric-key cryptography. |
 
