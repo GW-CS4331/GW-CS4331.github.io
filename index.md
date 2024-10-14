@@ -40,8 +40,8 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 | CPA-Secure Encryption and Pseudorandom Functions  (Week 4) <br>  <br>  | [Lecture 6 -- Reductions Review and CPA-Secure Encryption](lectures/lecture6_marked.pdf) <br> [Lecture 7 -- Psuedorandom Functions](lectures/lecture7_marked.pdf) <br> [Quiz 3](quiz/quiz3.pdf)|
 | Building CPA-Secure Encryption and Modes of Operation (Week 5) <br>  <br>  | [Lecture 8 -- Building CPA-Secure Encryption](lectures/lecture8_marked.pdf) <br> [Lecture 9 -- Proof of Security of PRF+OTP, Modes of Operations](lectures/lecture9_marked.pdf)|
 | Message Authentication Codes and CCA-Secure Encryption (Week 6) <br>  <br>  | [Lecture 10 -- Padding Oracle Attack](lectures/lecture10_marked.pdf) <br> [Lecture 11 -- Message Authentication Codes](lectures/lecture11_marked.pdf) <br> [Quiz 4](quiz/quiz4.pdf) <br> [Quiz 5](quiz/quiz5.pdf) |
-| Authenticated Encryption and Hash Functions (Week 7) <br>  <br>  | [Lecture 12 -- Authenticated Encryption](lectures/lecture12.pdf) <br> [Lecture 13 -- Hash Functions](lectures/lecture13.pdf) |
-| <br> <b> Exam 1 (Week 8) Oct. 16 </b> |  All material on symmetric-key cryptography. |
+| Authenticated Encryption and Hash Functions (Week 7) <br>  <br>  | [Lecture 12 -- Authenticated Encryption](lectures/lecture12.pdf) <br> [Lecture 13 -- Hash Functions](lectures/lecture13_marked.pdf) |
+| <br> <b> Exam 1 (Week 8) Oct. 16 </b> |  [Lecture 14 -- Exam Review](lectures/lecture14.pdf) <br> All material on symmetric-key cryptography. |
 
 | Public-Key Cryptography (Weeks 9-15)  | Materials
 | :--- |:---  |
