@@ -45,7 +45,7 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 
 | Public-Key Cryptography (Weeks 9-15)  | Materials
 | :--- |:---  |
-|  Practical Constructions of Symmetric-Key Primitives (Week 9) <br>  <br>   | [Lecture 15 -- Constructing Practical Block Ciphers (AES)](lectures/lecture15_marked.pdf)  <br> [Lecture 16 -- DES and constructing Hash Functions](lectures/lecture16.pdf) | 
+|  Practical Constructions of Symmetric-Key Primitives (Week 9) <br>  <br>   | [Lecture 15 -- Constructing Practical Block Ciphers (AES)](lectures/lecture15_marked.pdf)  <br> [Lecture 16 -- DES and constructing Hash Functions](lectures/lecture16_marked.pdf) | 
 |  Number Theory and Group Theory (Week 10) <br>  <br>   |   |
 |  Cryptographic Hardness Assumptions and Key Exchange (Week 11) <br>  <br>   |  |
 |  Public-Key Encryption (Week 12) <br>  <br>   |  |
