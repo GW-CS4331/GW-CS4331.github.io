@@ -47,7 +47,7 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 | :--- |:---  |
 |  Practical Constructions of Symmetric-Key Primitives (Week 9) <br>  <br>   | [Lecture 15 -- Constructing Practical Block Ciphers (AES)](lectures/lecture15_marked.pdf)  <br> [Lecture 16 -- DES and constructing Hash Functions](lectures/lecture16_marked.pdf) | 
 |  Number Theory and Group Theory (Week 10) <br>  <br>   |  [Lecture 17 -- Intro to Number Theory](lectures/lecture17_marked.pdf) <br> [Lecture 18 -- Intro to Group Theory](lectures/lecture18_marked.pdf) <br> [Quiz 6](quiz/quiz6.pdf) |
-|  Cryptographic Hardness Assumptions and Key Exchange (Week 11) <br>  <br>   | [Lecture 19 -- Computational Hardness Assumptions](lectures/lecture19.pdf) |
+|  Cryptographic Hardness Assumptions and Key Exchange (Week 11) <br>  <br>   | [Lecture 19 -- Computational Hardness Assumptions](lectures/lecture19_marked.pdf) <br> [Lecture 20 -- Private-key crypto and Key-Exchange from Number Theoretic Assumptions](lectures/lecture20.pdf)|
 |  Public-Key Encryption (Week 12) <br>  <br>   |  |
 |  Digital Signatures (Week 13) <br>  <br>   |  |
 |  Advanced Topics and Research Workshop (Week 14) <br>  <br>   |  |
