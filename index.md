@@ -49,7 +49,7 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 |  Number Theory and Group Theory (Week 10) <br>  <br>   |  [Lecture 17 -- Intro to Number Theory](lectures/lecture17_marked.pdf) <br> [Lecture 18 -- Intro to Group Theory](lectures/lecture18_marked.pdf) <br> [Quiz 6](quiz/quiz6.pdf) |
 |  Cryptographic Hardness Assumptions and Key Exchange (Week 11) <br>  <br>   | [Lecture 19 -- Computational Hardness Assumptions](lectures/lecture19_marked.pdf) <br> [Lecture 20 -- Private-key crypto and Key-Exchange from Number Theoretic Assumptions](lectures/lecture20_marked.pdf)|
 |  Public-Key Encryption (Week 12) <br>  <br>   | [Lecture 21 -- From Key Exchange to PKE](lectures/lecture21_marked.pdf) <br> [Lecture 22 -- El Gamal and RSA Encryption](lectures/lecture22_marked.pdf) <br> [Quiz 7](quiz/quiz7.pdf) |
-|  Digital Signatures (Week 13) <br>  <br>   | [Lecture 23 -- Digital Signatures](lectures/lecture23.pdf)] |
+|  Digital Signatures (Week 13) <br>  <br>   | [Lecture 23 -- Digital Signatures](lectures/lecture23_marked.pdf) <br> [Lecture 24 -- Signatures from Symmetric-key Primitives](lectures/lecture24_marked.pdf) <br> [Quiz 8](quiz/quiz8.pdf) |
 |  Advanced Topics and Research Workshop (Week 14) <br>  <br>   |  |
 |  Exam Review (Week 15) <br>  <br>   |  |
 
