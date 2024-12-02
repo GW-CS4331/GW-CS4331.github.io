@@ -50,12 +50,12 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 |  Cryptographic Hardness Assumptions and Key Exchange (Week 11) <br>  <br>   | [Lecture 19 -- Computational Hardness Assumptions](lectures/lecture19_marked.pdf) <br> [Lecture 20 -- Private-key crypto and Key-Exchange from Number Theoretic Assumptions](lectures/lecture20_marked.pdf)|
 |  Public-Key Encryption (Week 12) <br>  <br>   | [Lecture 21 -- From Key Exchange to PKE](lectures/lecture21_marked.pdf) <br> [Lecture 22 -- El Gamal and RSA Encryption](lectures/lecture22_marked.pdf) <br> [Quiz 7](quiz/quiz7.pdf) |
 |  Digital Signatures (Week 13) <br>  <br>   | [Lecture 23 -- Digital Signatures](lectures/lecture23_marked.pdf) <br> [Lecture 24 -- Signatures from Symmetric-key Primitives](lectures/lecture24_marked.pdf) <br> [Quiz 8](quiz/quiz8.pdf) |
-|  Advanced Topics and Research Workshop (Week 14) <br>  <br>   |  |
+|  Advanced Topics and Research Workshop (Week 14) <br>  <br>   | [Lecture 25 -- MPC](lectures/lecture25.pdf) |
 |  Exam Review (Week 15) <br>  <br>   |  |
 
 | Final Exam   | Materials
 | :--- |:---  |
-| <b> Final Exam </b> During Exam Week - exact time and date TBD | Comprehensive but will focus primarily on material after Exam 1.|
+| <b> Final Exam </b>  Monday, December 16 -- 12:40-2:40  | Comprehensive but will focus primarily on material after Exam 1.|
 
 <!---
 
