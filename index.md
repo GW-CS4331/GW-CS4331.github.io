@@ -51,7 +51,7 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 |  Public-Key Encryption (Week 12) <br>  <br>   | [Lecture 21 -- From Key Exchange to PKE](lectures/lecture21_marked.pdf) <br> [Lecture 22 -- El Gamal and RSA Encryption](lectures/lecture22_marked.pdf) <br> [Quiz 7](quiz/quiz7.pdf) |
 |  Digital Signatures (Week 13) <br>  <br>   | [Lecture 23 -- Digital Signatures](lectures/lecture23_marked.pdf) <br> [Lecture 24 -- Signatures from Symmetric-key Primitives](lectures/lecture24_marked.pdf) <br> [Quiz 8](quiz/quiz8.pdf) |
 |  Advanced Topics and Research Workshop (Week 14) <br>  <br>   | [Lecture 25 -- MPC](lectures/lecture25_marked.pdf) |
-|  Exam Review (Week 15) <br>  <br>   | [Lecture 26 -- Final Review](lectures/lecture26--finalReview.pdf) |
+|  Exam Review (Week 15) <br>  <br>   | [Lecture 26 -- Final Review](lectures/lecture26--finalReview.pdf) <br> [Quiz 9](quiz/quiz9_marked.pdf)|
 
 | Final Exam   | Materials
 | :--- |:---  |
