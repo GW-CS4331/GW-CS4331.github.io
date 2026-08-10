@@ -7,24 +7,24 @@ permalink: /syllabus/
 **Course Information**
 
 Course: CSCI 4331 / 6331 – Cryptography
-Semester: Fall, 2024
-Meeting time: Monday and Wednesday, 12:45 – 2:00
-Location: Corcoran Hall 207
+Semester: Fall, 2026
+Meeting time: Mondays 12:45 – 3:15
+Location: 1957 E St., Room 112
 
 **Instructor**
 Name: Arkady Yerukhimovich (he/him)
 Email: arkady@gwu.edu
 Office: SEH 4570
-Office hours: Check [Course Homepage](https://gw-cs3313.github.io/) for updated hours.
+Office hours: Check [Course Homepage](https://gw-cs4331.github.io/) for updated hours.
 
 
 ### Course Description and Learning Outcomes  ###
 
-This course introduces students to modern cryptography with a focus on formal definitions and provably secure constructions of cryptographic protocols. Topics covered include secret-key and public-key encryption, message-authentication codes, digital signatures, and advanced topics.  This is a theoretical course and requires rigorous mathematical analysis, including deriving formal proofs, which will help you develop your on mathematical abstraction and problem solving skills. The lecture, and some lab sessions, will consist of in-class activities and students will be required to work in groups.  Additionally, the course includes a team research project where students will read and present on a recent research topic in cryptography.
+This course introduces students to modern cryptography with a focus on formal definitions and provably secure constructions of cryptographic protocols. Topics covered include secret-key and public-key encryption, message-authentication codes, digital signatures, and advanced topics.  This is a theoretical course and requires rigorous mathematical analysis, including deriving formal proofs, which will help you develop your on mathematical abstraction and problem solving skills. The lectures will include in-class activities and students will be required to work in groups.  Additionally, the course includes a team research project where students will read and present on a recent research topic in cryptography.
 
 **Prerequisites**
 The main prerequisite for this course is a basic level of mathematical maturity. Students should feel comfortable with mathematical notation and be able to follow and apply mathematical reasoning. Basic
-familiarity with asymptotic notation, mathematical logic, and probability are recommended.
+familiarity with mathematical logic, probability, and modular arithmetic are recommended.
 
 Suggested prerequisites to cover this material include:
 
@@ -45,7 +45,6 @@ CSCI 6212 or equivalent
 **Online Platforms**
 * Piazza for discussions and announcements
 * Gradescope for homework submission and grades
-* Blackboard for synchronous lectures and recordings
 * Webpage for lecture slides, and other materials
 
 
@@ -62,86 +61,50 @@ much of the material covered in this course.
 
 
 ### Workload and Grading  ###
-The course will be taught through live synchronous lectures. As a 3 credit course, it will require a minimum of 2.5 hours per week of direct instruction and minimum of 7 hours of independent learning. Over the course of the semester, your independent learning will include readings (lecture notes and/or textbook), and homeworks. The lectures will include presentation of material, exercises, and discussions.  All lectures will be recorded, and recordings will be provided on Blackboard.
+The course will be taught through live synchronous lectures. As a 3 credit course, it will require a minimum of 2.5 hours per week of direct instruction and minimum of 7 hours of independent learning. Over the course of the semester, your independent learning will include readings (lecture notes and/or textbook), and homeworks. The lectures will include presentation of material, exercises, and discussions.  
 
 **Grading:**
   
   | Activity  | Percentage of Grade
   | :--- |:---  |
-  | Exam(s) | 40% (20% each)|
-  | Homework | 30% |
+  | Exam(s) | 50% (30% for the exam with the higher score)|
+  | Homework | 20% |
   | Research Project | 20% |
   | Class Participation | 10% |
 
  
 **Homework Policy:**
 Homework will be assigned (approximately) weekly. Homework is due before class (by 12:45PM) on the
-due date. Homework must be submitted via Blackboard by this time to receive credit. Homework can
+due date. Homework must be submitted via Gradescope by this time to receive credit. Homework can
 be typed using your favorite tool (I am happy to help anybody interested in learning LaTex) or
 handwritten and scanned. But, make sure that what you submit is legible as it is what will be graded.
 
-Instead of numerical grades, I will use a version of “specifications grading” to evaluate level of
-understanding instead of assigning point values to each mistake. Homework will be graded on an EMRN
-rubric. These stand for the following:
-* E -- Excellent, meets or exceeds expectation, clearly written and complete, clear understanding
-* M -- Meets expectations, clear evidence of understanding, needs clean up or minor revision
-* R -- Needs revision, shows partial understanding but significant gaps remain
-* N -- Not satisfactory, fails to demonstrate understanding of problem or solution approach
+Homework will be graded on a pass-fail basis for each problem.  If you are confused about a problem, it is better to show your work and say so then to try to write wrong, confused solutions.  I will call on students to explain their answers in class, so if you claim that you understand a solution, I expect you to be able to explain it to the class.  These explanations will be a major part of your homework grade.
 
-Each problem on the homework will receive a letter grade according to this rubric. Your final homework
-grade will depend on the number of problems on which you earn an E or M.  To help students build understanding of the material, I will allow two attempts at each homework problem with the grading as described below:
-* To receive an E you must submit the correct solution before the original due date. No revisions
-can receive an E.
-* To receive an M, you can either receive an M on your initial attempt, submitted before the
-deadline, or as a revision of a problem on which you received an R or N on your first attempt.
-Important: To be allowed a revision, a first attempt must be submitted by the original deadline.
-* If your initial submission, submitted by the deadline, receives an R or an N, you will be allowed
-to revise and resubmit your solutions. Revised solutions can receive at most an M. You can resubmit solutions up to 1 WEEK after the initial deadline.
-* Resubmissions of R and N grades are optional. If you do not submit one, you will keep your
-original grade.
+You are allowed to work in groups, but the write-up you submit MUST be your own.  You can use AI to help explain concepts, but DO NOT use it to directly answer the homework problems.  You will be asked to explain your solutions.  Failure to do so will result in a Fail grade on the problem.
 
-Final homework grades will be determined as follows:
-* A-: > 85% of problems get a E or M
-* B-: > 70% of problems get a E or M
-* C-: > 60% of problems get a E or M
-* D-: > 50% of problems get a E or M
-
-Moving up from an A- to an A or an A+ will depend on the fraction of E's as opposed to M's and the
-fraction of R's as opposed to N's. So, if you get 86% total E+M's with more E's than M's and more
-R's than N's, you will earn an A. I will fine tune the exact boundaries for the plusses and minuses
-depending on student performance, but you will have an approximation of your grade as the
-semester progresses.
-
-Students are welcome to discuss the problems and concepts with others in the class, but they should
-solve the problems on their own and the solutions you submit MUST be your own. I reserve the right to
-question you about your solution if it appears copied.
-
-Additionally, students MAY NOT use online resources such as solutions to other homeworks, chegg.com,
-or ChatGPT to find solutions. ChatGPT is terrible at answering crypto problems -- trust me, I tried -- and I
-will know if you copy. Any problems found to be in violation of this policy will automatically receive an
-N with no option to resubmit. Additionally, significant evidence of copying or using external solutions
-will be considered in breach of the academic integrity code and will be prosecuted accordingly.
+Homework is your opportunity for practice problems before the exams.  Thus, I strongly encourage you to do your own work rather than relying on others or AI.  
 
 **Exam Policy**
 
 There will be two exams. The first exam will cover the first half of the course, while the second exam
-will be cumulative covering the full semester. For both exams, you will be allowed to bring one 8.5”x11”
-piece of paper with notes to the exam. No calculators or computers are allowed.
+will be cumulative covering the full semester. For both exams, you will be allowed to bring two 8.5”x11”
+pieces of paper with notes to the exam. No calculators, computers, or other digital devices are allowed.
 
 ### Course Policies  ###
 
  **If you have a disability, or a health or a family emergency, that may effect your participation in this course and wish to discuss academic accommodations, please contact me as soon as possible.**
 
-**Grades will be posted on Blackboard** -- make sure you check and inform the instructors (by email) if you see any disparity between what is posted on blackboard and what you think your grades are.  You have one week after the grades are posted to contact the instructor -- after that there will be no regrading.
+**Grades will be posted on Gradescope** -- make sure you check and inform the instructors (by email) if you see any disparity between what is posted on Gradescope and what you think your grades are.  You have one week after the grades are posted to submit regrade requests via Gradescope -- after that there will be no regrading.
 
 **Email policy:** You can send email to my GW email address. However, do not expect an instantaneous response. I encourage you to post questions on Piazza.
 
-**Illness policy:** If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance if possible.  I cannot extend deadlines unless you contact me. You are still responsible for all material you missed, which generally will be available on the course website or on blackboard.
+**Illness policy:** If you are ill and it will cause you to miss class you should let me know in advance if possible.  I cannot extend deadlines unless you contact me. You are still responsible for all material you missed, which generally will be available on the course website.
 
 ### University Policies ###
 
 **Academic Integrity Code**
-Academic integrity is an essential part of the educational process, and all members of the GW community take these matters very seriously. As the instructor of record for this course, my role is to provide clear expectations and uphold them in all assessments. Violations of academic integrity occur when students fail to cite research sources properly, engage in unauthorized collaboration, falsify data, and otherwise violate the [Code of Academic Integrity](https://studentconduct.gwu.edu/code-academic-integrity). If you have any questions about whether particular academic practices or resources are permitted, you should ask me for clarification. If you are reported for an academic integrity violation, you should contact Student Rights and Responsibilities (SRR) to learn more about your rights and options in the process. Consequences can range from failure of assignment to expulsion from the University and may include a transcript notation. For more information, refer to the [SRR website](http://studentconduct.gwu.edu/academic-integrity), email rights@gwu.edu, or call 202-994-6757. 
+Academic integrity is an essential part of the educational process, and all members of the GW community take these matters very seriously. As the instructor of record for this course, my role is to provide clear expectations and uphold them in all assessments. Violations of academic integrity occur when students fail to cite research sources properly, engage in unauthorized collaboration, falsify data, and otherwise violate the [Code of Academic Integrity](https://students.gwu.edu/code-academic-integrity). If you have any questions about whether particular academic practices or resources are permitted, you should ask me for clarification. If you are reported for an academic integrity violation, you should contact Student Rights and Responsibilities (SRR) to learn more about your rights and options in the process. Consequences can range from failure of assignment to expulsion from the University and may include a transcript notation. For more information, refer to the [SRR website](http://studentconduct.gwu.edu/academic-integrity), email rights@gwu.edu, or call 202-994-6757. 
 
 **University policy on observance of religious holidays**
 Students must notify faculty during the first week of the semester in which they are enrolled in the course, or as early as possible, but no later than three weeks prior to the absence, of their intention to be absent from class on their day(s) of religious observance. If the holiday falls within the first three weeks of class, the student must inform faculty in the first week of the semester. For details and policy, see [provost.gwu.edu/policies-procedures-and-guidelines](http://provost.gwu.edu/policies-procedures-and-guidelines).
