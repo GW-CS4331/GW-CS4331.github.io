@@ -55,7 +55,7 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 
 | Final Exam   | Materials
 | :--- |:---  |
-| <b> Final Exam </b>  Monday, December 16 -- 12:40-2:40  | Comprehensive but will focus primarily on material after Exam 1.|
+| <b> Final Exam </b>    | Comprehensive but will focus primarily on material after Exam 1.|
 
 
 <!--
