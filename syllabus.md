@@ -74,7 +74,7 @@ The course will be taught through live synchronous lectures. As a 3 credit cours
 
  
 **Homework Policy:**
-Homework will be assigned (approximately) weekly. Homework is due before class (by 12:45PM) on the due date. Homework must be submitted via Gradescope by this time to receive credit. Homework can be typed using your favorite tool (I am happy to help anybody interested in learning LaTex) or handwritten and scanned. But, make sure that what you submit is legible as it is what will be graded.
+Homework will be assigned (approximately) every other week. Homework is due before class (by 12:45PM) on the due date. Homework must be submitted via Gradescope by this time to receive credit. Homework can be typed using your favorite tool (I am happy to help anybody interested in learning LaTex) or handwritten and scanned. But, make sure that what you submit is legible as it is what will be graded.
 
 Homework will be graded on a pass-fail basis for each problem.  If you are confused about a problem, it is better to show your work and say so then to try to write wrong, confused solutions.  I will call on students to explain their answers in class, so if you claim that you understand a solution, I expect you to be able to explain it to the class.  These explanations will be a major part of your homework grade.
 

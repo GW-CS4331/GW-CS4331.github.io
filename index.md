@@ -25,7 +25,7 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 
 ## Class Resources ##
   - [Piazza](https://piazza.com/gwu/fall2026/csci63314331) -- Used for questions and discussion
-  - [Gradescope](https://www.gradescope.com/courses/822061) -- Used for homework submission and grading
+  - [Gradescope](https://www.gradescope.com/courses/1345729) -- Used for homework submission and grading
   - [Course Website]() -- Used to distribute lecture notes
 
 ## Tentative Schedule  ##
