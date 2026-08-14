@@ -38,20 +38,18 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 | Computationally-Secure Encryption (Week 2)  |   |
 | Proof by Reduction and Pseudorandom Generators (Week 3)   |  |
 | CPA-Secure Encryption and Pseudorandom Functions  (Week 4)   | |
-| Building CPA-Secure Encryption and Modes of Operation (Week 5)   | |
-| Message Authentication Codes and CCA-Secure Encryption (Week 6)  |  |
-| Authenticated Encryption and Hash Functions (Week 7)  |  |
-| <br> <b> Exam 1 (Week 8) Oct. 16 </b> |   |
+| Message Authentication Codes, Modes of Operation, and CCA-Secure Encryption (Week 5)  |  |
+| Authenticated Encryption and Hash Functions (Week 6)  |  |
+| <br> <b> Exam 1 (Week 7) Oct. 19 </b> |   |
 
 | Public-Key Cryptography (Weeks 9-15)  | Materials
 | :--- |:---  |
-|  Practical Constructions of Symmetric-Key Primitives (Week 9)   |  | 
-|  Number Theory and Group Theory (Week 10)  | |
-|  Cryptographic Hardness Assumptions and Key Exchange (Week 11)   | |
-|  Public-Key Encryption (Week 12)  |  |
-|  Digital Signatures (Week 13)   |  |
-|  Advanced Topics and Research Workshop (Week 14)    | |
-|  Exam Review (Week 15)   | |
+|  Practical Constructions of Symmetric-Key Primitives (Week 8)   |  |
+|  Number Theory, Group Theory, and Cryptographic Hardness Assumptions (Week 9)  | |
+|  Key Exchange and Public-Key Encryption (Week 10)   | |
+|  Digital Signatures (Week 11)   |  |
+|  Advanced Topics and Exam Review (Week 12)    | |
+|  Project Workshop and Final Exam (Week 13)   | |
 
 | Final Exam   | Materials
 | :--- |:---  |
