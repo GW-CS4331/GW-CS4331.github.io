@@ -8,7 +8,7 @@ title: CS 4331/6331 Cryptography
 Name: Arkady Yerukhimovich (He/Him)
 Email: <a href="mailto:arkady@gwu.edu">arkady@gwu.edu</a>
 Office: SEH4570
-Office hours: TBD
+Office hours: Mondays 11-12 and Thursdays 1:30-2:30
 
 ## Course Information ##
 
