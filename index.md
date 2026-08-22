@@ -85,7 +85,9 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 -->
 </div>
 
+<!--
 ## Office Hours ##
 
 TBD
 All office hours will be held in my office -- SEH 4570.  
+-->
