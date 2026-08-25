@@ -34,7 +34,7 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 
 | Symmetric-Key Cryptography (Weeks 1-8) | Materials
 | :--- |:---  |
-| Introduction to Cryptography and Perfect Secrecy (Week 1) <br><br>| [Lecture 0 -- Course Information](lectures/lecture0.pdf) <br> [Lecture 1 -- Principles of Modern Cryptography, Probability, and Perfectly-Secure Encruption](lectures/lecture1.pdf) |
+| Introduction to Cryptography and Perfect Secrecy (Week 1) <br><br>| [Lecture 0 -- Course Information](lectures/lecture0.pdf) <br> [Lecture 1 -- Principles of Modern Cryptography, Probability, and Perfectly-Secure Encruption](lectures/lecture1.pdf) <br> [Quiz](quiz/quiz1.pdf)|
 | Computationally-Secure Encryption (Week 2)  |   |
 | Proof by Reduction and Pseudorandom Generators (Week 3)   |  |
 | CPA-Secure Encryption and Pseudorandom Functions  (Week 4)   | |
