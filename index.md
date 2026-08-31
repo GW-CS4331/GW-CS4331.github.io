@@ -35,11 +35,11 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 | Symmetric-Key Cryptography (Weeks 1-8) | Materials
 | :--- |:---  |
 | Introduction to Cryptography and Perfect Secrecy (Week 1) <br><br>| [Lecture 0 -- Course Information](lectures/lecture0.pdf) <br> [Lecture 1 -- Principles of Modern Cryptography, Probability, and Perfectly-Secure Encruption](lectures/lecture1.pdf) <br> [Quiz](quiz/quiz1.pdf)|
-| Computationally-Secure Encryption (Week 2)  |   |
-| Proof by Reduction and Pseudorandom Generators (Week 3)   |  |
-| CPA-Secure Encryption and Pseudorandom Functions  (Week 4)   | |
-| Message Authentication Codes, Modes of Operation, and CCA-Secure Encryption (Week 5)  |  |
-| Authenticated Encryption and Hash Functions (Week 6)  |  |
+| Computationally-Secure Encryption, Proofs by Reduction, Pseudorandom Generators (Week 2)  |  [Lecture 2](lectures/lecture2.pdf)  |
+| CPA-Secure Encryption and Pseudorandom Functions  (Week 3)   |  |
+| Modes of Operation and CCA Security (Week 4)   | |
+| Message Authentication Codes and Authenticated Encryption (Week 5)  |  |
+| Hash Functions and Applications (Week 6)  |  |
 | <br> <b> Exam 1 (Week 7) Oct. 19 </b> |   |
 
 | Public-Key Cryptography (Weeks 9-15)  | Materials
