@@ -32,26 +32,26 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 
 <div style="font-size:90%">
 
-| Symmetric-Key Cryptography | Materials | HW Due
-| :--- |:---  |:--- |
-| Introduction to Cryptography and Perfect Secrecy (08/24) <br><br>| [Lecture 0 -- Course Information](lectures/lecture0.pdf) <br> [Lecture 1 -- Principles of Modern Cryptography, Probability, and Perfectly-Secure Encruption](lectures/lecture1.pdf) <br> [Quiz](quiz/quiz1.pdf)||
-| Computationally-Secure Encryption, Proofs by Reduction, Pseudorandom Generators (08/31)  |  [Lecture 2](lectures/lecture2.pdf)  |HW0|
-| NO CLASS -- Labor Day (09/07)||
-| CPA-Secure Encryption and Pseudorandom Functions  (09/14)   |  | HW1 |
-| Modes of Operation and CCA Security (09/21)   | |
-| Message Authentication Codes and Authenticated Encryption (09/28)  |  |
-| Hash Functions and Applications (10/05)  |  |
-| NO CLASS -- Fall Break (10/12) | |
-| <b> Exam 1 - Oct. 19 </b> |   |
+| Date | Symmetric-Key Cryptography | Materials | HW Due
+| :--- | :---  | :--- | :--- |
+| 08.24 | Introduction to Cryptography and Perfect Secrecy <br><br>| [Lecture 0 -- Course Information](lectures/lecture0.pdf) <br> [Lecture 1 -- Principles of Modern Cryptography, Probability, and Perfectly-Secure Encruption](lectures/lecture1.pdf) <br> [Quiz](quiz/quiz1.pdf)||
+| 08.31 | Computationally-Secure Encryption, Proofs by Reduction, Pseudorandom Generators | [Lecture 2](lectures/lecture2.pdf) | HW0 |
+| 09.07 | NO CLASS -- Labor Day | | |
+| 09.14 | CPA-Secure Encryption and Pseudorandom Functions | | HW1 |
+| 09.21 | Modes of Operation and CCA Security | | |
+| 09.28 | Message Authentication Codes and Authenticated Encryption | | |
+| 10.05 | Hash Functions and Applications | | |
+| 10.12 | NO CLASS -- Fall Break | | |
+| 10.19 | <b>Exam 1</b> | | |
 
-| Public-Key Cryptography  | Materials
-| :--- |:---  |
-|  Practical Constructions of Symmetric-Key Primitives (10/26)   |  |
-|  Number Theory, Group Theory, and Cryptographic Hardness Assumptions (11/2)  | |
-|  Key Exchange and Public-Key Encryption (11/9)   | |
-|  Digital Signatures (11/16)   |  |
-| NO CLASS -- Thanksgiving Break (11/23) | |
-|  Advanced Topics and Exam Review (11/30)    | |
+| Date | Public-Key Cryptography  | Materials | HW Due
+| :--- | :---  | :--- | :--- |
+| 10.26 | Practical Constructions of Symmetric-Key Primitives | | |
+| 11.02 | Number Theory, Group Theory, and Cryptographic Hardness Assumptions | | |
+| 11.09 | Key Exchange and Public-Key Encryption | | |
+| 11.16 | Digital Signatures | | |
+| 11.23 | NO CLASS -- Thanksgiving Break | | |
+| 11.30 | Advanced Topics and Exam Review | | |
 
 | Final Week   | Materials
 | :--- |:---  |
