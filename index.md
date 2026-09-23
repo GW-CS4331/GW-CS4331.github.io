@@ -38,8 +38,8 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 | 08.31 | Computationally-Secure Encryption, Proofs by Reduction, Pseudorandom Generators | [Lecture 2](lectures/lecture2.pdf) | HW0 |
 | 09.07 | NO CLASS -- Labor Day | | |
 | 09.14 | CPA-Secure Encryption and Pseudorandom Functions | [Lecture 3](lectures/lecture3.pdf) <br> [Quiz](quiz/quiz2.pdf) | HW1 |
-| 09.21 | Constructing CPA Secure Encryption, Modes of Operation and CCA Security | | HW 2 |
-| 09.28 | Message Authentication Codes and Authenticated Encryption | | |
+| 09.21 | Constructing CPA Secure Encryption, Modes of Operation  | [Lecture 4](lectures/lecture4.pdf) <br> [Quiz](quiz/quiz3.pdf) | HW 2 |
+| 09.28 | Modes of Operation, Message Authentication Codes and Authenticated Encryption | | HW 3 |
 | 10.05 | Hash Functions and Applications | | |
 | 10.12 | NO CLASS -- Fall Break | | |
 | 10.19 | <b>Exam 1</b> | | |
