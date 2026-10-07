@@ -40,7 +40,7 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 | 09.14 | CPA-Secure Encryption and Pseudorandom Functions | [Lecture 3](lectures/lecture3.pdf) <br> [Quiz](quiz/quiz2.pdf) | HW1 |
 | 09.21 | Constructing CPA Secure Encryption, Modes of Operation  | [Lecture 4](lectures/lecture4.pdf) <br> [Quiz](quiz/quiz3.pdf) | HW 2 |
 | 09.28 | Modes of Operation, Message Authentication Codes and Authenticated Encryption | [Lecture 5](lectures/lecture5.pdf) | HW 3 |
-| 10.05 | Hash Functions and Applications | | HW4 |
+| 10.05 | Hash Functions and Applications | [Lecture 6](lectures/lecture6.pdf) <br> [Lecture 7 -- Midterm Review](lectures/lecture7.pdf) | HW4 |
 | 10.12 | NO CLASS -- Fall Break | | |
 | 10.19 | <b>Exam 1</b> | | |
 
