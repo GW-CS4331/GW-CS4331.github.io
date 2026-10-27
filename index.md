@@ -46,8 +46,8 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 
 | Date | Public-Key Cryptography  | Materials | HW Due
 | :--- | :---  | :--- | :--- |
-| 10.26 | Practical Constructions of Symmetric-Key Primitives | | |
-| 11.02 | Number Theory, Group Theory, and Cryptographic Hardness Assumptions | | |
+| 10.26 | Practical Constructions of Symmetric-Key Primitives | [Lecture 8](lectures/lecture8.pdf) | |
+| 11.02 | Number Theory, Group Theory, and Cryptographic Hardness Assumptions | | Take-home exam |
 | 11.09 | Key Exchange and Public-Key Encryption | | |
 | 11.16 | Digital Signatures | | |
 | 11.23 | NO CLASS -- Thanksgiving Break | | |
