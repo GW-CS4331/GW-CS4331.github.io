@@ -38,8 +38,8 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 | 08.31 | Computationally-Secure Encryption, Proofs by Reduction, Pseudorandom Generators | [Lecture 2](lectures/lecture2.pdf) | HW0 |
 | 09.07 | NO CLASS -- Labor Day | | |
 | 09.14 | CPA-Secure Encryption and Pseudorandom Functions | [Lecture 3](lectures/lecture3.pdf) <br> [Quiz](quiz/quiz2.pdf) | HW1 |
-| 09.21 | Constructing CPA Secure Encryption, Modes of Operation  | [Lecture 4](lectures/lecture4.pdf) <br> [Quiz](quiz/quiz3.pdf) | HW 2 |
-| 09.28 | Modes of Operation, Message Authentication Codes and Authenticated Encryption | [Lecture 5](lectures/lecture5.pdf) | HW 3 |
+| 09.21 | Constructing CPA Secure Encryption, Modes of Operation  | [Lecture 4](lectures/lecture4.pdf) <br> [Quiz](quiz/quiz3.pdf) | HW2 |
+| 09.28 | Modes of Operation, Message Authentication Codes and Authenticated Encryption | [Lecture 5](lectures/lecture5.pdf) | HW3 |
 | 10.05 | Hash Functions and Applications | [Lecture 6](lectures/lecture6.pdf) <br> [Lecture 7 -- Midterm Review](lectures/lecture7.pdf) | HW4 |
 | 10.12 | NO CLASS -- Fall Break | | |
 | 10.19 | <b>Exam 1</b> | | |
@@ -47,11 +47,11 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 | Date | Public-Key Cryptography  | Materials | HW Due
 | :--- | :---  | :--- | :--- |
 | 10.26 | Practical Constructions of Symmetric-Key Primitives | [Lecture 8](lectures/lecture8.pdf) | |
-| 11.02 | Number Theory, Group Theory, and Cryptographic Hardness Assumptions | | Take-home exam |
-| 11.09 | Key Exchange and Public-Key Encryption | | |
-| 11.16 | Digital Signatures | | |
+| 11.02 | NO CLASS -- Class Cancelled | | Take-home exam |
+| 11.09 | From Number Theory to Key Agreement | | |
+| 11.16 | Public-Key Encryption | | HW5 |
 | 11.23 | NO CLASS -- Thanksgiving Break | | |
-| 11.30 | Advanced Topics and Exam Review | | |
+| 11.30 | Digital Signatures | | HW6 |
 
 | Final Week   | Materials
 | :--- |:---  |
