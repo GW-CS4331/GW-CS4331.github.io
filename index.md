@@ -48,8 +48,8 @@ Textbook: Jonathan Katz, Yehuda Lindell: "Introduction to Modern Cryptography. S
 | :--- | :---  | :--- | :--- |
 | 10.26 | Practical Constructions of Symmetric-Key Primitives | [Lecture 8](lectures/lecture8.pdf) | |
 | 11.02 | NO CLASS -- Class Cancelled | | Take-home exam |
-| 11.09 | From Number Theory to Key Agreement | | |
-| 11.16 | Public-Key Encryption | | HW5 |
+| 11.09 | Number Theory, Group Theory, and Hardness Assumptions | [Lecture 9](lectures/lecture9.pdf) | |
+| 11.16 | Key Agreement and Public-Key Encryption | | HW5 |
 | 11.23 | NO CLASS -- Thanksgiving Break | | |
 | 11.30 | Digital Signatures | | HW6 |
 
